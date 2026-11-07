@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 echo =======================================================
-echo   Bhagavad Gita As It Is - Build & Deploy APK to Website
+echo   Bhagavad Gita As It Is - Build and Deploy APK
 echo =======================================================
 
 set "JAVA_HOME=C:\Program Files\Android\Android Studio\jbr"
@@ -26,3 +26,4 @@ echo =======================================================
 echo   SUCCESS: Updated APK is now live on the website!
 echo   Download Link: http://localhost:3000/download/android
 echo =======================================================
+

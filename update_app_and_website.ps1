@@ -37,3 +37,4 @@ Write-Host "=======================================================" -Foreground
 Write-Host "  SUCCESS: The updated APK is now deployed to the website!" -ForegroundColor Green
 Write-Host "  Download URL: http://localhost:3000/download/android" -ForegroundColor White
 Write-Host "=======================================================" -ForegroundColor Cyan
+
