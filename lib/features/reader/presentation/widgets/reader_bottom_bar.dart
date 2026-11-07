@@ -66,7 +66,7 @@ class ReaderBottomBar extends StatelessWidget {
         child: Stack(
           alignment: Alignment.center,
           children: [
-            // Left: Chapter Selection Button (Menu Book Icon)
+            // Left: Chapter Selection Button (Chapters List Icon)
             Align(
               alignment: Alignment.centerLeft,
               child: Tooltip(
@@ -82,7 +82,7 @@ class ReaderBottomBar extends StatelessWidget {
                       height: 38,
                       child: Center(
                         child: Icon(
-                          Icons.menu_book_rounded,
+                          Icons.format_list_bulleted_rounded,
                           size: 22,
                           color: accent,
                         ),
